@@ -12,4 +12,5 @@ Learning Design with 'A Book Apart' Series
 
 #### Updates
 ##### 27/01/2016
-- Finished HTML5 For Web Designers Chapter 1: A Brief History of Markup
+- Finished HTML5 For Web Designers | Chapter 1: A Brief History of Markup
+- Finished HTML5 For Web Designers | Chapter 2: The Design of HTML5

@@ -19,5 +19,7 @@ Learning Design with 'A Book Apart' Series
 - Finished HTML5 For Web Designers | Chapter 3: Rich Media
 - Finished HTML5 For Web Designers | Chapter 4: Web Forms 2.0
 
-##### 01/02/2016
+##### 02/02/2016
 - Finished HTML5 For Web Designers | Chapter 5: Semantics
+- Finished HTML5 For Web Designers | Chapter 6: Using HTML5 Today
+- Finished HTML5 For Web Designers

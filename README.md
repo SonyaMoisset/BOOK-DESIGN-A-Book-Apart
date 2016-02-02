@@ -10,6 +10,14 @@ Learning Design with 'A Book Apart' Series
 - Using HTML5 Today
 - Index
 
+### 2. CSS3 For Web Designers
+- Using CSS3 Today
+- Understanding CSS Transitions
+- Hover-Crafting with CSS3
+- Transforming the Message
+- Multiple Backgrounds
+- Enriching Forms
+
 #### Updates
 ##### 27/01/2016
 - Finished HTML5 For Web Designers | Chapter 1: A Brief History of Markup
@@ -23,3 +31,4 @@ Learning Design with 'A Book Apart' Series
 - Finished HTML5 For Web Designers | Chapter 5: Semantics
 - Finished HTML5 For Web Designers | Chapter 6: Using HTML5 Today
 - Finished HTML5 For Web Designers
+- Finished CSS3 For Web Designers | Chapter 1: Using CSS3 Today

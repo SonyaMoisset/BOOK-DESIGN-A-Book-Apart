@@ -35,3 +35,4 @@ Learning Design with 'A Book Apart' Series
 
 ##### 11/02/2016
 - Finished CSS3 For Web Designers | Chapter 2: Understanding CSS Transitions
+- Finished CSS3 For Web Designers | Chapter 3: Hover-Crafting with CSS3

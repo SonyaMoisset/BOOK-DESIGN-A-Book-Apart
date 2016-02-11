@@ -32,3 +32,6 @@ Learning Design with 'A Book Apart' Series
 - Finished HTML5 For Web Designers | Chapter 6: Using HTML5 Today
 - Finished HTML5 For Web Designers
 - Finished CSS3 For Web Designers | Chapter 1: Using CSS3 Today
+
+##### 11/02/2016
+- Finished CSS3 For Web Designers | Chapter 2: Understanding CSS Transitions

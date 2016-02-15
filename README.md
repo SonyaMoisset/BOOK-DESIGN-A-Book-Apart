@@ -18,6 +18,12 @@ Learning Design with 'A Book Apart' Series
 - Multiple Backgrounds
 - Enriching Forms
 
+### 3. The Elements of Content Strategy
+- Basic Principles
+- The Craft of Content Strategy
+- Tools and Techniques
+- Bonus Track: How Do I Get In?
+
 #### Updates
 ##### 27/01/2016
 - Finished HTML5 For Web Designers | Chapter 1: A Brief History of Markup
@@ -42,3 +48,4 @@ Learning Design with 'A Book Apart' Series
 - Finished CSS3 For Web Designers | Chapter 5: Multiple Backgrounds
 - Finished CSS3 For Web Designers | Chapter 6: Enriching Forms
 - Finished CSS3 For Web Designers
+- Finished The Elements of Content Strategy | Basic Principles

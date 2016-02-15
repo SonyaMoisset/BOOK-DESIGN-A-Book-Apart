@@ -41,3 +41,4 @@ Learning Design with 'A Book Apart' Series
 ##### 15/02/2016
 - Finished CSS3 For Web Designers | Chapter 5: Multiple Backgrounds
 - Finished CSS3 For Web Designers | Chapter 6: Enriching Forms
+- Finished CSS3 For Web Designers

@@ -37,3 +37,6 @@ Learning Design with 'A Book Apart' Series
 - Finished CSS3 For Web Designers | Chapter 2: Understanding CSS Transitions
 - Finished CSS3 For Web Designers | Chapter 3: Hover-Crafting with CSS3
 - Finished CSS3 For Web Designers | Chapter 4: Transforming the Message
+
+##### 15/02/2016
+- Finished CSS3 For Web Designers | Chapter 5: Multiple Backgrounds 
